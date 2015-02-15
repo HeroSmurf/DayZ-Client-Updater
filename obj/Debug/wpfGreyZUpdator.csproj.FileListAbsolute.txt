@@ -1,0 +1,24 @@
+C:\Users\7 Legged Spider\Documents\Programming\Programs\C Sharp\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\wpfGreyZUpdator.csprojResolveAssemblyReference.cache
+C:\Users\7 Legged Spider\Documents\Programming\Programs\C Sharp\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\MainWindow.baml
+C:\Users\7 Legged Spider\Documents\Programming\Programs\C Sharp\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\MainWindow.g.cs
+C:\Users\7 Legged Spider\Documents\Programming\Programs\C Sharp\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\App.g.cs
+C:\Users\7 Legged Spider\Documents\Programming\Programs\C Sharp\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\wpfGreyZUpdator.Properties.Resources.resources
+C:\Users\7 Legged Spider\Documents\Programming\Programs\C Sharp\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\wpfGreyZUpdator.csproj.GenerateResource.Cache
+C:\Users\7 Legged Spider\Documents\Programming\Programs\C Sharp\wpfGreyZUpdator\wpfGreyZUpdator\bin\Debug\GreyZLauncher.exe
+C:\Users\7 Legged Spider\Documents\Programming\Programs\C Sharp\wpfGreyZUpdator\wpfGreyZUpdator\bin\Debug\GreyZLauncher.pdb
+C:\Users\7 Legged Spider\Documents\Programming\Programs\C Sharp\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\GreyZLauncher_MarkupCompile.cache
+C:\Users\7 Legged Spider\Documents\Programming\Programs\C Sharp\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\GreyZLauncher.g.resources
+C:\Users\7 Legged Spider\Documents\Programming\Programs\C Sharp\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\GreyZLauncher.exe
+C:\Users\7 Legged Spider\Documents\Programming\Programs\C Sharp\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\GreyZLauncher.pdb
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\GreyZLauncher.exe
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\GreyZLauncher.pdb
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\bin\Debug\GreyZLauncher.exe
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\bin\Debug\GreyZLauncher.pdb
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\wpfGreyZUpdator.csprojResolveAssemblyReference.cache
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\MainWindow.baml
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\MainWindow.g.cs
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\App.g.cs
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\GreyZLauncher_MarkupCompile.cache
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\GreyZLauncher.g.resources
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\wpfGreyZUpdator.Properties.Resources.resources
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Debug\wpfGreyZUpdator.csproj.GenerateResource.Cache

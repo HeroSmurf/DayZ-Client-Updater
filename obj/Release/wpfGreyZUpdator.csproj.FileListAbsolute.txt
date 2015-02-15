@@ -1,0 +1,14 @@
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Release\MainWindow.baml
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Release\MainWindow.g.cs
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Release\App.g.cs
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Release\wpfGreyZUpdator.Properties.Resources.resources
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Release\wpfGreyZUpdator.csproj.GenerateResource.Cache
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Release\wpfGreyZUpdator.csprojResolveAssemblyReference.cache
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\bin\Release\GreyZ.exe
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\bin\Release\GreyZ.pdb
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Release\GreyZ_MarkupCompile.cache
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Release\GreyZ.g.resources
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Release\GreyZ.exe
+C:\Users\XAVUS\Desktop\wpfGreyZUpdator\wpfGreyZUpdator\obj\Release\GreyZ.pdb
+C:\XAV\EWA\Projects\DayZ\GreyZ\Updater\wpfGreyZUpdator\obj\Release\GreyZ.exe
+C:\XAV\EWA\Projects\DayZ\GreyZ\Updater\wpfGreyZUpdator\obj\Release\GreyZ.pdb

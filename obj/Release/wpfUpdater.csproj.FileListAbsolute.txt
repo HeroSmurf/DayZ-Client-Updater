@@ -1,0 +1,14 @@
+C:\XAV\EWA\Projects\DayZ\GreyZ\Updater\wpfGreyZUpdator\obj\Release\GreyZ.exe
+C:\XAV\EWA\Projects\DayZ\GreyZ\Updater\wpfGreyZUpdator\obj\Release\GreyZ.pdb
+C:\XAV\EWA\Projects\DayZ\GreyZ\GreyZTools\wpfGreyZUpdater\obj\Release\GreyZ.exe
+C:\XAV\EWA\Projects\DayZ\GreyZ\GreyZTools\wpfGreyZUpdater\obj\Release\GreyZ.pdb
+C:\XAV\EWA\Projects\DayZ\GreyZ\GreyZTools\wpfGreyZUpdater\bin\Release\GreyZ.exe
+C:\XAV\EWA\Projects\DayZ\GreyZ\GreyZTools\wpfGreyZUpdater\bin\Release\GreyZ.pdb
+C:\XAV\EWA\Projects\DayZ\GreyZ\GreyZTools\wpfGreyZUpdater\obj\Release\MainWindow.baml
+C:\XAV\EWA\Projects\DayZ\GreyZ\GreyZTools\wpfGreyZUpdater\obj\Release\MainWindow.g.cs
+C:\XAV\EWA\Projects\DayZ\GreyZ\GreyZTools\wpfGreyZUpdater\obj\Release\App.g.cs
+C:\XAV\EWA\Projects\DayZ\GreyZ\GreyZTools\wpfGreyZUpdater\obj\Release\GreyZ_MarkupCompile.cache
+C:\XAV\EWA\Projects\DayZ\GreyZ\GreyZTools\wpfGreyZUpdater\obj\Release\GreyZ.g.resources
+C:\XAV\EWA\Projects\DayZ\GreyZ\GreyZTools\wpfGreyZUpdater\obj\Release\wpfGreyZUpdator.Properties.Resources.resources
+C:\XAV\EWA\Projects\DayZ\GreyZ\GreyZTools\wpfGreyZUpdater\obj\Release\wpfUpdater.csproj.GenerateResource.Cache
+C:\XAV\EWA\Projects\DayZ\GreyZ\GreyZTools\wpfGreyZUpdater\obj\Release\wpfUpdater.csprojResolveAssemblyReference.cache
